@@ -8,19 +8,19 @@
   "trainer": {
     "name": "Jos Hoekendijk",
     "role": "Eigenaar & hoofdtrainer",
-    "style": "Shotokan-karate (concept, nog te bevestigen)",
-    "grade": "3e dan (concept, nog te bevestigen)",
-    "experience": "Ruim 20 jaar ervaring, waarvan 10 jaar als hoofdtrainer; opgeleid via de NKB (concept, nog te bevestigen)"
+    "style": "Kyokushinkai-karate",
+    "grade": "1e dan (Shodan) \u2014 aanspreektitel Senpei",
+    "experience": "40 jaar karate-ervaring; lerarenopleiding Karate-do Bond Nederland (KBN) afgerond; actief als leraar bij karateschool Shin Bu Ken Lemmer"
   },
   "training": [
-    {"title": "Techniek", "description": "Houding, timing, beweging, controle en precisie."},
-    {"title": "Conditie", "description": "Kracht, uithoudingsvermogen en veerkracht."},
-    {"title": "Kumite", "description": "Afstand, anticipatie en beheersing in partneroefeningen."}
+    {"title": "Techniek", "description": "Elke beweging begint bij houding en timing. Stap voor stap bouwen aan technieken die kloppen \u2014 niet alleen aanvoelen, maar ook werken."},
+    {"title": "Conditie", "description": "Kracht, souplesse en adem die een volle training volhoudt, opgebouwd in jouw tempo."},
+    {"title": "Kumite", "description": "In gecontroleerde partneroefeningen afstand inschatten, tempo lezen en onder druk kalm blijven \u2014 techniek en conditie samengebracht."}
   ],
   "contact": {
-    "email": "proefles@mizudojo.nl (dummy)",
-    "phone": "06 12 34 56 78 (dummy)",
-    "address": "Sportlaan 12, 1234 AB Voorbeeldstad (dummy)",
+    "email": "jos@mizudojo.nl",
+    "phone": "+31 6 25126632",
+    "address": "Sportlaan 12, 1234 AB Emmeloord (straat/huisnummer/postcode nog te bevestigen)",
     "schedule": "Dinsdag & donderdag 20:00\u201321:30 (dummy)"
   }
 }
