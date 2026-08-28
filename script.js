@@ -60,3 +60,18 @@ const toggle=document.querySelector('.menu-toggle');const nav=document.querySele
 
   targets.forEach(function (t) { observer.observe(t.el); });
 })();
+
+/* Terug-naar-boven knop: zichtbaar zodra er voorbij de hero gescrold is */
+(function () {
+  var btn = document.getElementById('back-to-top');
+  if (!btn) return;
+  var toggle = function () {
+    if (window.scrollY > window.innerHeight * 0.6) {
+      btn.classList.add('is-visible');
+    } else {
+      btn.classList.remove('is-visible');
+    }
+  };
+  window.addEventListener('scroll', toggle, { passive: true });
+  toggle();
+})();
