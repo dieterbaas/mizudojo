@@ -1,0 +1,26 @@
+{
+  "brand": {
+    "name": "Mizu Dojo",
+    "tagline": "Beweeg als water. Train met kracht.",
+    "audience": "Jongvolwassenen en volwassenen",
+    "water_note": "Mizu (水) is het Japanse woord voor water. Water staat binnen het merkverhaal voor aanpassingsvermogen, beweging, rust en kracht."
+  },
+  "trainer": {
+    "name": "Jos Hoekendijk",
+    "role": "Eigenaar & hoofdtrainer",
+    "style": "Shotokan-karate (concept, nog te bevestigen)",
+    "grade": "3e dan (concept, nog te bevestigen)",
+    "experience": "Ruim 20 jaar ervaring, waarvan 10 jaar als hoofdtrainer; opgeleid via de NKB (concept, nog te bevestigen)"
+  },
+  "training": [
+    {"title": "Techniek", "description": "Houding, timing, beweging, controle en precisie."},
+    {"title": "Conditie", "description": "Kracht, uithoudingsvermogen en veerkracht."},
+    {"title": "Kumite", "description": "Afstand, anticipatie en beheersing in partneroefeningen."}
+  ],
+  "contact": {
+    "email": "proefles@mizudojo.nl (dummy)",
+    "phone": "06 12 34 56 78 (dummy)",
+    "address": "Sportlaan 12, 1234 AB Voorbeeldstad (dummy)",
+    "schedule": "Dinsdag & donderdag 20:00\u201321:30 (dummy)"
+  }
+}
